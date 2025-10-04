@@ -65,7 +65,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvisingh22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-metrics.vercel.app/api/janhvisingh22?theme=radical&layout=compact&show_icons=true&hide_border=true&plugins=isocalendar,stars,languages" alt="Metrics" />
 </p>
 
 ---
@@ -74,15 +74,15 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:janhvisingh1711@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="[Your-LeetCode-URL]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="[Your-HackerRank-URL]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
