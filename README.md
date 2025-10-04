@@ -1,7 +1,7 @@
 # Hi there, I'm Janhvi Singh 👋
 
 <p>
-  I'm a passionate developer with a strong interest in building elegant and effective solutions to complex problems. I'm currently focused on <b>AI/ML, Android and web development]</b> and am always eager to learn and apply new technologies.
+  I'm a passionate developer with a strong interest in building elegant and effective solutions to complex problems. I'm currently focused on <b>AI/ML, Android and web development</b> and am always eager to learn and apply new technologies.
 </p>
 
 ---
@@ -22,10 +22,9 @@
 
 Here are a few technologies I've been working with recently:
 
--   **Languages:** `JavaScript` `Python` `Java` `Kotlin`
--   **Frontend:** `React` `Next.js` `Tailwind CSS` 
--   **Backend:** `Node.js` `Express` `Flask` 
--   **Databases:** `MongoDB` `PostgreSQL` `MySQL` 
+-   **Languages:** `Python` `Java` `Kotlin` `Dart`
+-   **Backend:** `Firebase` 
+-   **Databases:** `MySQL` 
 -   **Tools:** `Git` `GitHub` `Docker` `VS Code` 
 
 ---
@@ -36,9 +35,9 @@ Here are some of the projects I'm proud of.
 
 | Project Title                                                 | Description                                                                                             | Tech Stack                               |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **[Project 1: CPM Based Hierarchial Text Classification]** | A tool that classifies the text | `Python` |
+| **[Project 1: CPM Based Hierarchial Text Classification]** | A tool that classifies the text | `Python` , `Transformers`|
 | **[Project 2: Intern-Assignment-Chat-Bot]** | A simple AI Q&A bot that uses a Large Language Model to answer user questions. | `Python` `Streamlit` `OpenAI/Hugging Face` |
-| **[Project 3: PDF Parser]** | Parses the PDF and summarizes it                 | 'Python' 'PYMUPDF'  |
+| **[Project 3: PDF Parser]** | Parses the PDF and summarizes it                 |  `Python` `PYMUPDF`  |
 
 ---
 
