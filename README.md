@@ -4,17 +4,17 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
   </a>
-</p>
+p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32097241285290b7952ed5de1ea689aa.gif" alt="Modern Developer Animation" width="600px" />
+  <img src="https://raw.githubusercontent.com/rLgs/rLgs/main/assets/new_header.gif" alt="Modern Developer Animation" width="600px" />
 </p>
 
 ---
 
 ### 👨‍💻 **About Me**
 
-[cite_start]I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development[cite: 5]. [cite_start]I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models[cite: 7, 9]. [cite_start]I am also a **National Semi-finalist in Flipkart Grid 2025** [cite: 41] [cite_start]and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank[cite: 39].
+[cite_start]I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development[cite: 1, 5]. [cite_start]I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models[cite: 7, 9]. [cite_start]I am also a **National Semi-finalist in Flipkart Grid 2025** and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank[cite: 39, 41].
 
 ---
 
@@ -31,13 +31,13 @@
 ### 🚀 **My Projects**
 
 ### Swift Ship - Delivery Optimization System
-> An Android application designed to solve last-mile delivery challenges. [cite_start]Features real-time tracking via Google Maps API [cite: 17][cite_start], automated notifications with FCM [cite: 18][cite_start], and a low-latency Firebase backend[cite: 14]. [cite_start]This full-stack solution reduced average delivery times by 20%[cite: 16].
+> [cite_start]An Android application designed to solve last-mile delivery challenges[cite: 14]. [cite_start]Features real-time tracking via Google Maps API, automated notifications with FCM, and a low-latency Firebase backend[cite: 15, 17, 18]. [cite_start]This full-stack solution reduced average delivery times by 20%[cite: 16].
 > <p>
 >   <img src="https://skillicons.dev/icons?i=android,java,firebase" alt="Tech Stack"/>
 > </p>
 
 ### CPM-Based Hierarchical Text Classification
-> [cite_start]A Deep Learning system for nuanced text analysis[cite: 20]. [cite_start]The model integrates pre-trained embeddings and was fine-tuned on domain-specific data to achieve a 15% performance improvement over baseline results[cite: 22, 23].
+> [cite_start]A Deep Learning system for nuanced text analysis[cite: 20, 21]. [cite_start]The model integrates pre-trained embeddings and was fine-tuned on domain-specific data to achieve a 15% performance improvement over baseline results[cite: 22, 23].
 > <p>
 >   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface" alt="Tech Stack"/>
 > </p>
@@ -66,9 +66,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=dracula" alt="Activity Graph" />
-</p>
-<p align="center">
-  <img src="https://github.com/janhvisingh22/janhvisingh22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
