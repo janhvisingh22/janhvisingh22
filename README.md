@@ -77,18 +77,15 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn">
   </a>
-  &nbsp;
   <a href="mailto:janhvisingh1711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Gmail">
   </a>
-  &nbsp;
   <a href="[Your-LeetCode-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode">
   </a>
-  &nbsp;
   <a href="[Your-HackerRank-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=social&logo=hackerrank" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=39FF14" alt="HackerRank">
   </a>
 </p>
