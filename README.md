@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP; Freelance+AI+%26+ML+Developer;  Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
   </a>
-p>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rLgs/rLgs/main/assets/new_header.gif" alt="Modern Developer Animation" width="600px" />
@@ -14,7 +14,7 @@ p>
 
 ### 👨‍💻 **About Me**
 
-I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development.I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models. I am also a **National Semi-finalist in Flipkart Grid 2025** and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank.
+I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development. I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models. I am also a **National Semi-finalist in Flipkart Grid 2025** and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank.
 
 ---
 
@@ -37,7 +37,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 > </p>
 
 ### CPM-Based Hierarchical Text Classification
-> [cite_start]A Deep Learning system for nuanced text analysis[cite: 20, 21]. [cite_start]The model integrates pre-trained embeddings and was fine-tuned on domain-specific data to achieve a 15% performance improvement over baseline results[cite: 22, 23].
+> A Deep Learning system for nuanced text analysis. The model integrates pre-trained embeddings and was fine-tuned on domain-specific data to achieve a 15% performance improvement over baseline results.
 > <p>
 >   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface" alt="Tech Stack"/>
 > </p>
@@ -52,9 +52,9 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle GenAI">
 </p>
 
-- [cite_start]**Hackathons:** Qualified for Walmart Sparkathon and Adobe Hackathon.
-- [cite_start]**Competition:** National Semi-finalist at Flipkart Grid 2025.
-- [cite_start]**Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
+- **Hackathons:** Qualified for Walmart Sparkathon and Adobe Hackathon.
+- **Competition:** National Semi-finalist at Flipkart Grid 2025.
+- **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
 
 ---
 
