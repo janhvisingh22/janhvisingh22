@@ -1,8 +1,8 @@
-# Hi there, I'm Janhvi Singh 👋
+# Hi there, I'm Janhvi Singh <img src="https://media.tenor.com/F65p-V3s01sAAAAi/mochi-cat-chayns.gif" width="35px">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E673A6&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finals" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=25&pause=1000&color=E673A6&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,15 +10,15 @@
   <img src="https://i.pinimg.com/originals/53/7c/27/537c27d4138014029288c1c463bab13c.gif" alt="Lofi Anime Coding GIF" width="600px" />
 </p>
 
-<img src="https://media.tenor.com/tZl2pFAT_pcAAAAM/pixel-divider.gif" alt="Divider">
+<img src="https://i.pinimg.com/originals/24/2b/7e/242b7e51c32270920453305141208920.gif" alt="Divider">
 
-### 👩‍💻 **About Me**
+### 🌸 **About Me** 🌸
 
 I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development. I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models. I am also a **National Semi-finalist in Flipkart Grid 2025** and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank.
 
-<img src="https://media.tenor.com/tZl2pFAT_pcAAAAM/pixel-divider.gif" alt="Divider">
+<img src="https://i.pinimg.com/originals/24/2b/7e/242b7e51c32270920453305141208920.gif" alt="Divider">
 
-### 🛠️ **Technologies & Tools**
+### 🛠️ **Technologies & Tools** 🛠️
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,9 +26,9 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   </a>
 </p>
 
-<img src="https://media.tenor.com/tZl2pFAT_pcAAAAM/pixel-divider.gif" alt="Divider">
+<img src="https://i.pinimg.com/originals/24/2b/7e/242b7e51c32270920453305141208920.gif" alt="Divider">
 
-### 🚀 **My Projects**
+### 🚀 **My Projects** 🚀
 
 ### Swift Ship - Delivery Optimization System
 > An Android application designed to solve last-mile delivery challenges. Features real-time tracking via Google Maps API, automated notifications with FCM, and a low-latency Firebase backend. This full-stack solution reduced average delivery times by 20%.
@@ -42,9 +42,9 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 >   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface&theme=light" alt="Tech Stack"/>
  </p>
 
-<img src="https://media.tenor.com/tZl2pFAT_pcAAAAM/pixel-divider.gif" alt="Divider">
+<img src="https://i.pinimg.com/originals/24/2b/7e/242b7e51c32270920453305141208920.gif" alt="Divider">
 
-### 🏆 **Certifications & Achievements**
+### 🏆 **Certifications & Achievements** 🏆
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FFD180?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS Foundations">
@@ -53,12 +53,12 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 </p>
 
 -   ✨ **Hackathons:** Qualified for Walmart Sparkathon and Adobe Hackathon.
--   🏆 **Competition:** National Semi-finalist at Flipkart Grid 2025.
--   🚀 **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
+-   💖 **Competition:** National Semi-finalist at Flipkart Grid 2025.
+-   ✨ **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
 
-<img src="https://media.tenor.com/tZl2pFAT_pcAAAAM/pixel-divider.gif" alt="Divider">
+<img src="https://i.pinimg.com/originals/24/2b/7e/242b7e51c32270920453305141208920.gif" alt="Divider">
 
-### 📊 **My GitHub Stats**
+### 📊 **My GitHub Stats** 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janhvisingh22&show_icons=true&theme=catppuccin_latte&hide_border=true&count_private=true" alt="Janhvi's GitHub Stats" />
@@ -73,12 +73,12 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=catppuccin_latte" alt="Activity Graph" />
 </p>
 
-<img src="https://media.tenor.com/tZl2pFAT_pcAAAAM/pixel-divider.gif" alt="Divider">
+<img src="https://i.pinimg.com/originals/24/2b/7e/242b7e51c32270920453305141208920.gif" alt="Divider">
 
-### 🌐 **Find Me Online**
+### 🌐 **Find Me Online** 🌐
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janhvi-singh-0606b351/" target="_blank">
+  <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
   </a>
   <a href="mailto:janhvisingh1711@gmail.com">
