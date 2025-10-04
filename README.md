@@ -71,12 +71,16 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-profile-trophy.vercel.app/?username=janhvisingh22&theme=tokyonight&hide_border=true&column=4&row=2" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=dracula" alt="Activity Graph" />
+</p>
+
 ---
 
 ### 🌐 **Find Me Online**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
+  <a href="https://www.linkedin/in/janhvi-singh-0606b3251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn">
   </a>
   <a href="mailto:janhvisingh1711@gmail.com">
