@@ -9,20 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing Coder GIF" width="600px" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=janhvisingh22&style=for-the-badge&color=39FF14&labelColor=0d1117" alt="janhvisingh22 :: profile views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
+---
 
 ### 👨‍💻 **About Me**
 
 I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development. I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models. I am also a **National Semi-finalist in Flipkart Grid 2025** and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank.
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
+---
 
 ### 🛠️ **Technologies & Tools**
 
@@ -32,7 +28,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
+---
 
 ### 🚀 **My Projects**
 
@@ -48,7 +44,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 >   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface&theme=dark" alt="Tech Stack"/>
  </p>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
+---
 
 ### 🏆 **Certifications & Achievements**
 
@@ -62,7 +58,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 -   **Competition:** National Semi-finalist at Flipkart Grid 2025.
 -   **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
+---
 
 ### 📊 **My GitHub Stats**
 
@@ -75,21 +71,24 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-profile-trophy.vercel.app/?username=janhvisingh22&theme=tokyonight&hide_border=true&column=4&row=2" alt="GitHub Trophies" />
 </p>
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
+---
 
 ### 🌐 **Find Me Online**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="mailto:janhvisingh1711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail">
   </a>
+  &nbsp;
   <a href="[Your-LeetCode-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode" alt="LeetCode">
   </a>
+  &nbsp;
   <a href="[Your-HackerRank-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=39FF14" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=social&logo=hackerrank" alt="HackerRank">
   </a>
 </p>
