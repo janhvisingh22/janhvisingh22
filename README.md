@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finals" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 > A Deep Learning system for nuanced text analysis. The model integrates pre-trained embeddings and was fine-tuned on domain-specific data to achieve a 15% performance improvement over baseline results.
 > <p>
 >   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface" alt="Tech Stack"/>
-> </p>
+ </p>
 
 ---
 
@@ -65,7 +65,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvisingh22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api/janhvisingh22?theme=radical&layout=compact&show_icons=true&hide_border=true&plugins=isocalendar,stars,languages" alt="Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=dracula" alt="Activity Graph" />
 </p>
 
 ---
