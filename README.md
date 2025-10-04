@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Janhvi+Singh" alt="Hi there, I'm Janhvi Singh" border="0">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Janhvi+Singh" alt="Hi there, I'm Janhvi Singh" border="0">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1DB954&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+%7C+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=25&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+%7C+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finals" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janhvisingh22&style=for-the-badge&color=00FFFF&labelColor=0d1117" alt="janhvisingh22 :: profile views" />
+  <img src="https://komarev.com/ghpvc/?username=janhvisingh22&style=for-the-badge&color=39FF14&labelColor=0d1117" alt="janhvisingh22 :: profile views" />
 </p>
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
@@ -53,9 +53,9 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 ### 🏆 **Certifications & Achievements**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Foundations">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=39FF14" alt="AWS Foundations">
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle GenAI">
+  <img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional-0d1117?style=for-the-badge&logo=oracle&logoColor=39FF14" alt="Oracle GenAI">
 </p>
 
 -   **Hackathons:** Qualified for Walmart Sparkathon and Adobe Hackathon.
@@ -81,15 +81,15 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn">
   </a>
   <a href="mailto:janhvisingh1711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Gmail">
   </a>
   <a href="[Your-LeetCode-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode">
   </a>
   <a href="[Your-HackerRank-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=39FF14" alt="HackerRank">
   </a>
 </p>
