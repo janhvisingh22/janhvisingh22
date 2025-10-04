@@ -47,14 +47,14 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 ### 🏆 **Certifications & Achievements**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Foundations">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Foundations">
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle GenAI">
+  <img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle GenAI">
 </p>
 
-- **Hackathons:** Qualified for Walmart Sparkathon and Adobe Hackathon.
-- **Competition:** National Semi-finalist at Flipkart Grid 2025.
-- **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
+-   ✨ **Hackathons:** Qualified for Walmart Sparkathon and Adobe Hackathon.
+-   🏆 **Competition:** National Semi-finalist at Flipkart Grid 2025.
+-   🚀 **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
 
 ---
 
@@ -73,8 +73,16 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 ### 🌐 **Find Me Online**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:janhvisingh1711@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="[Your-LeetCode-URL]" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="[Your-HackerRank-URL]" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.linkedin.com/in/janhvi-singh-0606b3251/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:janhvisingh1711@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="[Your-LeetCode-URL]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
+  </a>
+  <a href="[Your-HackerRank-URL]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
+  </a>
 </p>
