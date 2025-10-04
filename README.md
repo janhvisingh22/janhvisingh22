@@ -75,6 +75,10 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-profile-trophy.vercel.app/?username=janhvisingh22&theme=tokyonight&hide_border=true&column=4&row=2" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=janhvisingh22&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+</p>
+
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/octocat-wave.gif" width="100%" alt="Divider">
 
 ### 🌐 **Find Me Online**
