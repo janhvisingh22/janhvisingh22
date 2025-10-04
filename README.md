@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://fontmeme.com/permalink/251006/c6f728c79c88716b9d62d29e7c3e5a32.png" alt="script-font-new" border="0">
+  <img src="https://readme-typing-svg.demolab.com?font=Parisienne&size=40&duration=3000&pause=1000&color=B28DFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Janhvi+Singh" alt="script-font-new" border="0">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=25&pause=1000&color=B28DFF&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finals" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=25&pause=1000&color=B28DFF&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janhvisingh22&color=B28DFF&style=flat-square" alt="janhvisingh22 :: profile views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=janhvisingh22.janhvisingh22&left_text=Profile%20Visitors&right_color=B28DFF" alt="janhvisingh22 :: profile views" />
 </p>
 
 <img src="https://i.pinimg.com/originals/5c/36/ad/5c36ad1a932d0fc282922709c91a32a6.gif" alt="Divider">
