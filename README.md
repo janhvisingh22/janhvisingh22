@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=30,139DFA&background=00000000&center=true&vCenter=true&width=500&lines=B.Tech+Student+at+VIT-AP;Freelance+AI+%26+ML+Developer;Flipkart+Grid+National+Semi-Finals" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,13 +10,13 @@
   <img src="https://raw.githubusercontent.com/rLgs/rLgs/main/assets/new_header.gif" alt="Modern Developer Animation" width="600px" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines.gif" alt="Divider">
 
 ### 👨‍💻 **About Me**
 
 I am a Computer Science undergraduate at **Vellore Institute of Technology (2022-2026)** with a passion for Artificial Intelligence, Machine Learning, and Android Development. I have practical experience as a **Freelance ML/AI Developer**, where I delivered end-to-end solutions by developing and deploying custom NLP models. I am also a **National Semi-finalist in Flipkart Grid 2025** and an active competitive programmer with over **300+ problems solved** on LeetCode and HackerRank.
 
----
+<img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines.gif" alt="Divider">
 
 ### 🛠️ **Technologies & Tools**
 
@@ -26,7 +26,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines.gif" alt="Divider">
 
 ### 🚀 **My Projects**
 
@@ -42,7 +42,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 >   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,huggingface" alt="Tech Stack"/>
  </p>
 
----
+<img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines.gif" alt="Divider">
 
 ### 🏆 **Certifications & Achievements**
 
@@ -56,7 +56,7 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 -   🏆 **Competition:** National Semi-finalist at Flipkart Grid 2025.
 -   🚀 **Leadership:** Co-managed and executed 5+ workshops for over 500 students as a technical team member at the Geeks for Geeks student chapter.
 
----
+<img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines.gif" alt="Divider">
 
 ### 📊 **My GitHub Stats**
 
@@ -64,11 +64,16 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
   <img src="https://github-readme-stats.vercel.app/api?username=janhvisingh22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Janhvi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvisingh22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janhvisingh22&theme=radical&hide_border=true&column=4&row=2" alt="GitHub Trophies" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=dracula" alt="Activity Graph" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines.gif" alt="Divider">
 
 ### 🌐 **Find Me Online**
 
