@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janhvisingh22&color=B28DFF&style=flat-square" alt="janhvisingh22 :: profile views" />
+  <img src="https://gpvc.arturio.dev/janhvisingh22" alt="janhvisingh22 :: profile views" />
 </p>
 
 <img src="https://i.pinimg.com/originals/5c/36/ad/5c36ad1a932d0fc282922709c91a32a6.gif" alt="Divider">
@@ -73,10 +73,6 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology (2022
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=janhvisingh22&theme=dracula&hide_border=true&column=4&row=2" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/janhvisingh22/janhvisingh22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <img src="https://i.pinimg.com/originals/5c/36/ad/5c36ad1a932d0fc282922709c91a32a6.gif" alt="Divider">
