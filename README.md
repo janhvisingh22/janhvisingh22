@@ -1,6 +1,20 @@
 # Hi there, I'm Janhvi Singh 👋
 
-I'm a passionate developer interested in [mention your primary interest, e.g., Web Development, Machine Learning, Open Source, etc.]. I enjoy building projects that solve real-world problems and learning new technologies.
+<p>
+  I'm a passionate developer with a strong interest in building elegant and effective solutions to complex problems. I'm currently focused on <b>AI/ML, Android and web development]</b> and am always eager to learn and apply new technologies.
+</p>
+
+---
+
+### 📊 **My GitHub Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janhvisingh22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Janhvi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvisingh22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhvisingh22&theme=dracula" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -8,41 +22,34 @@ I'm a passionate developer interested in [mention your primary interest, e.g., W
 
 Here are a few technologies I've been working with recently:
 
--   **Languages:** `JavaScript` `Python` `[Add more]`
--   **Frontend:** `React` `Next.js` `Tailwind CSS` `[Add more]`
--   **Backend:** `Node.js` `Express` `[Add more]`
--   **Databases:** `MongoDB` `PostgreSQL` `[Add more]`
--   **Tools:** `Git` `GitHub` `Docker` `VS Code` `[Add more]`
+-   **Languages:** `JavaScript` `Python` `Java` `Kotlin`
+-   **Frontend:** `React` `Next.js` `Tailwind CSS` 
+-   **Backend:** `Node.js` `Express` `Flask` 
+-   **Databases:** `MongoDB` `PostgreSQL` `MySQL` 
+-   **Tools:** `Git` `GitHub` `Docker` `VS Code` 
 
 ---
 
 ### 🔭 **My Projects**
 
-Here are some of the projects I'm proud of. You can find more on my repositories tab!
+Here are some of the projects I'm proud of.
 
 | Project Title                                                 | Description                                                                                             | Tech Stack                               |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **[Project 1: e.g., Intern-Assignment-Text-Summarizer]** | A tool that summarizes long texts using Natural Language Processing. Built as part of an internship.      | `Python` `Hugging Face Transformers` `Flask` |
-| **[Project 2: Your next best project]** | A brief, one-sentence description of what this project does and what problem it solves.                 | `React` `Node.js` `MongoDB`                |
-| **[Project 3: Another cool project]** | A brief, one-sentence description of what this project does and what problem it solves.                 | `Next.js` `TypeScript` `PostgreSQL`      |
+| **[Project 1: CPM Based Hierarchial Text Classification]** | A tool that classifies the text | `Python` |
+| **[Project 2: Intern-Assignment-Chat-Bot]** | A simple AI Q&A bot that uses a Large Language Model to answer user questions. | `Python` `Streamlit` `OpenAI/Hugging Face` |
+| **[Project 3: PDF Parser]** | Parses the PDF and summarizes it                 | 'Python' 'PYMUPDF'  |
 
 ---
 
 ### 🌱 **I'm Currently Learning**
 
--   Exploring advanced concepts in [mention a technology, e.g., server-side rendering with Next.js].
--   Diving deeper into [mention another topic, e.g., system design and architecture].
+-   Exploring advanced concepts in ML, DL, GEN AI
+-   Diving deeper into Web Development and Android Development
 
 ---
 
 ### 📫 **How to Reach Me**
 
--   **LinkedIn:** [Your LinkedIn Profile URL]
--   **Twitter / X:** [@your_twitter_handle](https://twitter.com/your_twitter_handle)
--   **Email:** [your.email@example.com]
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhvisingh22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Janhvi's GitHub Stats" />
-</p>
+-   **LinkedIn:** https://www.linkedin.com/in/janhvi-singh-0606b3251/
+-   **Email:** janhvisingh1711@gmail.com
